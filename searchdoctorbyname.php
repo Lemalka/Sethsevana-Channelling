@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Search doctor by name</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  	<link rel="stylesheet" type="text/css" href="plugins/cubeportfolio/css/cubeportfolio.min.css">
+  	<link href="css/nivo-lightbox.css" rel="stylesheet" />
+  	<link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  	<link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
+  	<link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+  	<link href="css/animate.css" rel="stylesheet" />
+  	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
+<style >
+
+
+
+
+</style>
+<body>
+
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+      <a class="navbar-brand" href="#"><img src="img/sethsevanalogo.jpg" width="80" height="80"></a>
+    
+    
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Home</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index.html/doctor">Doctors</a>&nbsp&nbsp
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" ><span class=" glyphicon glyphicon-log-out"></span>Logout</a>
+      </li>    
+    </ul>
+  </div>  
+</nav>
+<br>
+
+<div class="container">
+	<div class="row">
+		<div class="form-inline">
+			<i class="fa fa-stethoscope p" style="font-size:24px;color:red"></i>
+			<input type="text" id="inputIconEx2" class="form-control" style="border-top: hidden; border-right: hidden;border-left: hidden;border-bottom: groove; align-items:center;" readonly>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+			<i class="fa fa-plus-square" aria-hidden="true" style="font-size: 24px; color: red"></i>&nbsp
+			<input type="text" id="inputIconEx2" class="form-control" style="border-top: hidden; border-right: hidden;border-left: hidden;border-bottom: groove;align-items: center;" readonly>
+
+        </div>
+    </div>
+</div>
+
+
+			
+
+
+
+  
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.js" integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>
+</body>
+</html>
